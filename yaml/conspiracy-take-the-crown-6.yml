@@ -1,0 +1,129 @@
+---
+object: card
+id: 00717f7c-0778-4a02-b6c0-b3c3f07e75a9
+oracle_id: 20f7f33d-0c49-49f7-80fa-aed86e33a528
+multiverse_ids:
+- 416763
+tcgplayer_id: 121426
+cardmarket_id: 291742
+name: Hold the Perimeter
+lang: en
+released_at: '2016-08-26'
+uri: https://api.scryfall.com/cards/00717f7c-0778-4a02-b6c0-b3c3f07e75a9
+scryfall_uri: https://scryfall.com/card/cn2/6/hold-the-perimeter?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/0/00717f7c-0778-4a02-b6c0-b3c3f07e75a9.jpg?1681082896
+  normal: https://cards.scryfall.io/normal/front/0/0/00717f7c-0778-4a02-b6c0-b3c3f07e75a9.jpg?1681082896
+  large: https://cards.scryfall.io/large/front/0/0/00717f7c-0778-4a02-b6c0-b3c3f07e75a9.jpg?1681082896
+  png: https://cards.scryfall.io/png/front/0/0/00717f7c-0778-4a02-b6c0-b3c3f07e75a9.png?1681082896
+  art_crop: https://cards.scryfall.io/art_crop/front/0/0/00717f7c-0778-4a02-b6c0-b3c3f07e75a9.jpg?1681082896
+  border_crop: https://cards.scryfall.io/border_crop/front/0/0/00717f7c-0778-4a02-b6c0-b3c3f07e75a9.jpg?1681082896
+mana_cost: ''
+cmc: 0.0
+type_line: Conspiracy
+oracle_text: |-
+  (Start the game with this conspiracy face up in the command zone.)
+  At the beginning of your first upkeep, create a 1/2 white Soldier creature token with defender.
+  At the beginning of each other player's first upkeep, that player creates a 1/1 red Goblin creature token with "This creature can't block."
+colors: []
+color_identity: []
+keywords: []
+all_parts:
+- object: related_card
+  id: 3d5c2f87-f0c9-4188-9b20-1c2a1d3c4f45
+  component: token
+  name: Soldier
+  type_line: Token Creature — Soldier
+  uri: https://api.scryfall.com/cards/3d5c2f87-f0c9-4188-9b20-1c2a1d3c4f45
+- object: related_card
+  id: c63967fe-62da-4c27-9aa7-67adc77b2baf
+  component: token
+  name: Goblin
+  type_line: Token Creature — Goblin
+  uri: https://api.scryfall.com/cards/c63967fe-62da-4c27-9aa7-67adc77b2baf
+- object: related_card
+  id: 00717f7c-0778-4a02-b6c0-b3c3f07e75a9
+  component: combo_piece
+  name: Hold the Perimeter
+  type_line: Conspiracy
+  uri: https://api.scryfall.com/cards/00717f7c-0778-4a02-b6c0-b3c3f07e75a9
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: banned
+  pauper: not_legal
+  vintage: banned
+  penny: not_legal
+  commander: banned
+  oathbreaker: banned
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: banned
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: ad1b8847-1905-4080-9e26-80691ea7c1ef
+set: cn2
+set_name: 'Conspiracy: Take the Crown'
+set_type: draft_innovation
+set_uri: https://api.scryfall.com/sets/ad1b8847-1905-4080-9e26-80691ea7c1ef
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acn2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cn2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/00717f7c-0778-4a02-b6c0-b3c3f07e75a9/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A20f7f33d-0c49-49f7-80fa-aed86e33a528&unique=prints
+collector_number: '6'
+digital: false
+rarity: rare
+watermark: conspiracy
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jason A. Engle
+artist_ids:
+- 02e2b5de-4341-464c-8fdb-a1adbf873bc0
+illustration_id: 37932798-131b-40f3-97fd-bb7d0c873265
+border_color: black
+frame: '2015'
+frame_effects:
+- draft
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+prices:
+  usd: '0.12'
+  usd_foil: '0.95'
+  usd_etched: 
+  eur: '0.15'
+  eur_foil: '0.49'
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416763
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hold+the+Perimeter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hold+the+Perimeter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hold+the+Perimeter
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/121426?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hold+the+Perimeter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hold+the+Perimeter&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

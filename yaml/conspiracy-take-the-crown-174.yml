@@ -1,0 +1,122 @@
+---
+object: card
+id: a172f74b-fcd5-456c-8a95-505dbd05e899
+oracle_id: 7735eeba-693b-47e2-bd51-414379cf1016
+multiverse_ids:
+- 416931
+tcgplayer_id: 121783
+cardmarket_id: 291910
+name: Beast Within
+lang: en
+released_at: '2016-08-26'
+uri: https://api.scryfall.com/cards/a172f74b-fcd5-456c-8a95-505dbd05e899
+scryfall_uri: https://scryfall.com/card/cn2/174/beast-within?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/1/a172f74b-fcd5-456c-8a95-505dbd05e899.jpg?1576382962
+  normal: https://cards.scryfall.io/normal/front/a/1/a172f74b-fcd5-456c-8a95-505dbd05e899.jpg?1576382962
+  large: https://cards.scryfall.io/large/front/a/1/a172f74b-fcd5-456c-8a95-505dbd05e899.jpg?1576382962
+  png: https://cards.scryfall.io/png/front/a/1/a172f74b-fcd5-456c-8a95-505dbd05e899.png?1576382962
+  art_crop: https://cards.scryfall.io/art_crop/front/a/1/a172f74b-fcd5-456c-8a95-505dbd05e899.jpg?1576382962
+  border_crop: https://cards.scryfall.io/border_crop/front/a/1/a172f74b-fcd5-456c-8a95-505dbd05e899.jpg?1576382962
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Instant
+oracle_text: Destroy target permanent. Its controller creates a 3/3 green Beast creature
+  token.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+all_parts:
+- object: related_card
+  id: ac453b05-4eb3-42f2-99e7-40e29558c50a
+  component: token
+  name: Beast
+  type_line: Token Creature — Beast
+  uri: https://api.scryfall.com/cards/ac453b05-4eb3-42f2-99e7-40e29558c50a
+- object: related_card
+  id: a172f74b-fcd5-456c-8a95-505dbd05e899
+  component: combo_piece
+  name: Beast Within
+  type_line: Instant
+  uri: https://api.scryfall.com/cards/a172f74b-fcd5-456c-8a95-505dbd05e899
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: ad1b8847-1905-4080-9e26-80691ea7c1ef
+set: cn2
+set_name: 'Conspiracy: Take the Crown'
+set_type: draft_innovation
+set_uri: https://api.scryfall.com/sets/ad1b8847-1905-4080-9e26-80691ea7c1ef
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acn2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cn2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a172f74b-fcd5-456c-8a95-505dbd05e899/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7735eeba-693b-47e2-bd51-414379cf1016&unique=prints
+collector_number: '174'
+digital: false
+rarity: uncommon
+flavor_text: '"Monsters dwell in every heart. We only think civilization tames them."
+  ―Euphemia, Nexus watcher'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jesper Ejsing
+artist_ids:
+- a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d
+illustration_id: 8ec245f1-fcfe-4a98-9e13-dd69e2483388
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 19
+prices:
+  usd: '1.16'
+  usd_foil: '13.38'
+  usd_etched: 
+  eur: '0.43'
+  eur_foil: '10.00'
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416931
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Beast+Within&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Beast+Within&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Beast+Within
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/121783?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Beast+Within&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Beast+Within&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

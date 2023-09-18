@@ -1,0 +1,116 @@
+---
+object: card
+id: 89a6aae2-f892-4f62-8333-970257ec301b
+oracle_id: bae49475-fe01-400b-8959-f0dde959577c
+multiverse_ids:
+- 416978
+tcgplayer_id: 121904
+cardmarket_id: 291951
+name: Shimmering Grotto
+lang: en
+released_at: '2016-08-26'
+uri: https://api.scryfall.com/cards/89a6aae2-f892-4f62-8333-970257ec301b
+scryfall_uri: https://scryfall.com/card/cn2/221/shimmering-grotto?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/9/89a6aae2-f892-4f62-8333-970257ec301b.jpg?1576383343
+  normal: https://cards.scryfall.io/normal/front/8/9/89a6aae2-f892-4f62-8333-970257ec301b.jpg?1576383343
+  large: https://cards.scryfall.io/large/front/8/9/89a6aae2-f892-4f62-8333-970257ec301b.jpg?1576383343
+  png: https://cards.scryfall.io/png/front/8/9/89a6aae2-f892-4f62-8333-970257ec301b.png?1576383343
+  art_crop: https://cards.scryfall.io/art_crop/front/8/9/89a6aae2-f892-4f62-8333-970257ec301b.jpg?1576383343
+  border_crop: https://cards.scryfall.io/border_crop/front/8/9/89a6aae2-f892-4f62-8333-970257ec301b.jpg?1576383343
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  {T}: Add {C}.
+  {1}, {T}: Add one mana of any color.
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- B
+- C
+- G
+- R
+- U
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: ad1b8847-1905-4080-9e26-80691ea7c1ef
+set: cn2
+set_name: 'Conspiracy: Take the Crown'
+set_type: draft_innovation
+set_uri: https://api.scryfall.com/sets/ad1b8847-1905-4080-9e26-80691ea7c1ef
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acn2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cn2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/89a6aae2-f892-4f62-8333-970257ec301b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abae49475-fe01-400b-8959-f0dde959577c&unique=prints
+collector_number: '221'
+digital: false
+rarity: uncommon
+flavor_text: Untold riches await those who forsake the bustling world to search the
+  secret, silent places.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Cliff Childs
+artist_ids:
+- ed6f7e03-20ba-4c73-bdda-4a4928480721
+illustration_id: 8224d05e-a2d1-4f3a-8c69-cfc3806acf19
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 7882
+penny_rank: 4532
+prices:
+  usd: '0.11'
+  usd_foil: '0.25'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.27'
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416978
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Shimmering+Grotto&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Shimmering+Grotto&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Shimmering+Grotto
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/121904?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Shimmering+Grotto&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Shimmering+Grotto&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

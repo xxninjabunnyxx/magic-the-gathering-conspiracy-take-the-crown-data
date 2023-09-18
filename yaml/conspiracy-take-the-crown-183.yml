@@ -1,0 +1,111 @@
+---
+object: card
+id: 7ebc9056-42f8-4804-a474-9ecddd8740ad
+oracle_id: cb102767-f8d8-4477-9a24-07686870bda7
+multiverse_ids:
+- 416940
+tcgplayer_id: 121855
+cardmarket_id: 291916
+name: Irresistible Prey
+lang: en
+released_at: '2016-08-26'
+uri: https://api.scryfall.com/cards/7ebc9056-42f8-4804-a474-9ecddd8740ad
+scryfall_uri: https://scryfall.com/card/cn2/183/irresistible-prey?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/e/7ebc9056-42f8-4804-a474-9ecddd8740ad.jpg?1576383036
+  normal: https://cards.scryfall.io/normal/front/7/e/7ebc9056-42f8-4804-a474-9ecddd8740ad.jpg?1576383036
+  large: https://cards.scryfall.io/large/front/7/e/7ebc9056-42f8-4804-a474-9ecddd8740ad.jpg?1576383036
+  png: https://cards.scryfall.io/png/front/7/e/7ebc9056-42f8-4804-a474-9ecddd8740ad.png?1576383036
+  art_crop: https://cards.scryfall.io/art_crop/front/7/e/7ebc9056-42f8-4804-a474-9ecddd8740ad.jpg?1576383036
+  border_crop: https://cards.scryfall.io/border_crop/front/7/e/7ebc9056-42f8-4804-a474-9ecddd8740ad.jpg?1576383036
+mana_cost: "{G}"
+cmc: 1.0
+type_line: Sorcery
+oracle_text: |-
+  Target creature must be blocked this turn if able.
+  Draw a card.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: ad1b8847-1905-4080-9e26-80691ea7c1ef
+set: cn2
+set_name: 'Conspiracy: Take the Crown'
+set_type: draft_innovation
+set_uri: https://api.scryfall.com/sets/ad1b8847-1905-4080-9e26-80691ea7c1ef
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acn2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cn2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/7ebc9056-42f8-4804-a474-9ecddd8740ad/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acb102767-f8d8-4477-9a24-07686870bda7&unique=prints
+collector_number: '183'
+digital: false
+rarity: uncommon
+flavor_text: The baloth's instincts boiled, its muscles pulled taut, and its razor-spines
+  bristled, as it turned to face—a runt meepling.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jesper Ejsing
+artist_ids:
+- a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d
+illustration_id: 7edd9743-feaf-413e-8caf-dd3d1cace0a3
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 8305
+penny_rank: 9689
+prices:
+  usd: '0.10'
+  usd_foil: '0.66'
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: '0.49'
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416940
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Irresistible+Prey&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Irresistible+Prey&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Irresistible+Prey
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/121855?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Irresistible+Prey&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Irresistible+Prey&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,110 @@
+---
+object: card
+id: 8bfd6889-90e2-49fe-bd30-7d850dc18db2
+oracle_id: 512a9ab9-ddd4-4872-b4f4-dee56f9f5575
+multiverse_ids:
+- 416758
+tcgplayer_id: 121777
+cardmarket_id: 291952
+name: Adriana's Valor
+lang: en
+released_at: '2016-08-26'
+uri: https://api.scryfall.com/cards/8bfd6889-90e2-49fe-bd30-7d850dc18db2
+scryfall_uri: https://scryfall.com/card/cn2/1/adrianas-valor?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/b/8bfd6889-90e2-49fe-bd30-7d850dc18db2.jpg?1681082830
+  normal: https://cards.scryfall.io/normal/front/8/b/8bfd6889-90e2-49fe-bd30-7d850dc18db2.jpg?1681082830
+  large: https://cards.scryfall.io/large/front/8/b/8bfd6889-90e2-49fe-bd30-7d850dc18db2.jpg?1681082830
+  png: https://cards.scryfall.io/png/front/8/b/8bfd6889-90e2-49fe-bd30-7d850dc18db2.png?1681082830
+  art_crop: https://cards.scryfall.io/art_crop/front/8/b/8bfd6889-90e2-49fe-bd30-7d850dc18db2.jpg?1681082830
+  border_crop: https://cards.scryfall.io/border_crop/front/8/b/8bfd6889-90e2-49fe-bd30-7d850dc18db2.jpg?1681082830
+mana_cost: ''
+cmc: 0.0
+type_line: Conspiracy
+oracle_text: |-
+  Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
+  Whenever a creature you control with the chosen name attacks, you may pay {W}. If you do, that creature gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
+colors: []
+color_identity:
+- W
+keywords:
+- Hidden agenda
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: banned
+  pauper: not_legal
+  vintage: banned
+  penny: not_legal
+  commander: banned
+  oathbreaker: banned
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: banned
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: ad1b8847-1905-4080-9e26-80691ea7c1ef
+set: cn2
+set_name: 'Conspiracy: Take the Crown'
+set_type: draft_innovation
+set_uri: https://api.scryfall.com/sets/ad1b8847-1905-4080-9e26-80691ea7c1ef
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acn2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cn2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8bfd6889-90e2-49fe-bd30-7d850dc18db2/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A512a9ab9-ddd4-4872-b4f4-dee56f9f5575&unique=prints
+collector_number: '1'
+digital: false
+rarity: common
+watermark: conspiracy
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Lius Lasahido
+artist_ids:
+- 0a0e9093-ce44-4a69-93a7-09b63e7c330d
+illustration_id: 7d748ba4-32a7-4eb1-922b-0e197709102e
+border_color: black
+frame: '2015'
+frame_effects:
+- draft
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+prices:
+  usd: '0.06'
+  usd_foil: '0.46'
+  usd_etched: 
+  eur: '0.04'
+  eur_foil: '0.15'
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416758
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Adriana%27s+Valor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Adriana%27s+Valor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Adriana%27s+Valor
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/121777?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Adriana%27s+Valor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Adriana%27s+Valor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

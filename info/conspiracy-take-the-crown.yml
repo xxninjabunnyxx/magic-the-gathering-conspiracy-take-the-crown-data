@@ -1,0 +1,19 @@
+---
+object: set
+id: ad1b8847-1905-4080-9e26-80691ea7c1ef
+code: cn2
+tcgplayer_id: 1794
+name: 'Conspiracy: Take the Crown'
+uri: https://api.scryfall.com/sets/ad1b8847-1905-4080-9e26-80691ea7c1ef
+scryfall_uri: https://scryfall.com/sets/cn2
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Acn2&unique=prints
+released_at: '2016-08-26'
+set_type: draft_innovation
+card_count: 222
+printed_size: 221
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: cns
+block: Conspiracy
+icon_svg_uri: https://svgs.scryfall.io/sets/cn2.svg?1694404800

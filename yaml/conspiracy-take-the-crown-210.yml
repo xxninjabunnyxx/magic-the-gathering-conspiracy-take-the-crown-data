@@ -1,0 +1,109 @@
+---
+object: card
+id: 3eb507b3-162d-4cc6-b4ce-62c6a78a92cc
+oracle_id: bacb9d63-5950-4bcd-a056-40c02ecf4ce8
+multiverse_ids:
+- 416967
+tcgplayer_id: 121847
+cardmarket_id: 291941
+name: Hexplate Golem
+lang: en
+released_at: '2016-08-26'
+uri: https://api.scryfall.com/cards/3eb507b3-162d-4cc6-b4ce-62c6a78a92cc
+scryfall_uri: https://scryfall.com/card/cn2/210/hexplate-golem?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/e/3eb507b3-162d-4cc6-b4ce-62c6a78a92cc.jpg?1576383256
+  normal: https://cards.scryfall.io/normal/front/3/e/3eb507b3-162d-4cc6-b4ce-62c6a78a92cc.jpg?1576383256
+  large: https://cards.scryfall.io/large/front/3/e/3eb507b3-162d-4cc6-b4ce-62c6a78a92cc.jpg?1576383256
+  png: https://cards.scryfall.io/png/front/3/e/3eb507b3-162d-4cc6-b4ce-62c6a78a92cc.png?1576383256
+  art_crop: https://cards.scryfall.io/art_crop/front/3/e/3eb507b3-162d-4cc6-b4ce-62c6a78a92cc.jpg?1576383256
+  border_crop: https://cards.scryfall.io/border_crop/front/3/e/3eb507b3-162d-4cc6-b4ce-62c6a78a92cc.jpg?1576383256
+mana_cost: "{7}"
+cmc: 7.0
+type_line: Artifact Creature — Golem
+oracle_text: ''
+power: '5'
+toughness: '7'
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: ad1b8847-1905-4080-9e26-80691ea7c1ef
+set: cn2
+set_name: 'Conspiracy: Take the Crown'
+set_type: draft_innovation
+set_uri: https://api.scryfall.com/sets/ad1b8847-1905-4080-9e26-80691ea7c1ef
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acn2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cn2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3eb507b3-162d-4cc6-b4ce-62c6a78a92cc/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abacb9d63-5950-4bcd-a056-40c02ecf4ce8&unique=prints
+collector_number: '210'
+digital: false
+rarity: common
+flavor_text: |-
+  "Use everything. Iron, rust, scrap . . . even the ground must join our cause."
+  —Ezuri, renegade leader
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Matt Cavotta
+artist_ids:
+- 2e6a0611-9411-4ba4-98e3-c0e18cbf9f83
+illustration_id: ddbd7a42-6c8b-470c-a09d-fcb9fb068037
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 20571
+prices:
+  usd: '0.04'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.10'
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416967
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hexplate+Golem&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hexplate+Golem&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hexplate+Golem
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/121847?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hexplate+Golem&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hexplate+Golem&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
